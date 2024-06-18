@@ -1,4 +1,8 @@
-<KBD>![Uploading 1710588616359.jpg...]()</KBD>
+## Table of Contents
+- [How to Create Your Profile?](#how-to-create-your-profile)
+- [How to Customize Markdown files?](#how-to-customize-markdown-files)
+- [How to Create New Repository?](#how-to-create-new-repository)
+- <KBD>![Uploading 1710588616359.jpg...]()</KBD>
 # Sujithra Radhakrishnan
 Webpage & UI/UX Designer cum Digital Publisher
 # About Me!
