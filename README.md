@@ -2,8 +2,8 @@
 - [Home](#Sujithra-Radhakrishnan)
 - [About Me](#About-Me)
 - [Contact](#how-to-create-new-repository)
-- <KBD>![Uploading 1710588616359.jpg...]()</KBD>
-# Sujithra Radhakrishnan(#Sujithra-Radhakrishnan)
+<KBD>![Uploading 1710588616359.jpg...]()</KBD>
+# Sujithra Radhakrishnan
 Webpage & UI/UX Designer cum Digital Publisher
 # About Me!
 Hello there! I'm Sujithra Radhakrishnan, a passionate Webpage & UI/UX Designer cum Digital Publisher with a keen eye for detail and a drive for creating intuitive, user-centric digital experiences. With 8 years of experience in the field, I've honed my skills in crafting visually stunning interfaces that not only captivate users but also enhance their overall interaction.
